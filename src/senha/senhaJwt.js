@@ -1,0 +1,1 @@
+module.exports = 'Cubos@1233'
